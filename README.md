@@ -12,7 +12,7 @@
 | Name              | Address                                      | Description                                                                                                 |
 | ----------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Consumer contract | terra1d3zsjh8r9679k2vd8arpl7acg36lg5xz94e4d5 | An example contract that consume data fron Bridge Contract. [See implementation](simple_sportdata_consumer) |
-| Bridge Contract   | terra1h49znmw0j9aj3fgll7kdlt4zmwvr95mwfaagfa | [See doc](https://docs.bandchain.org/whitepaper/lite-client-protocol.html)                                  |
+| Bridge Contract   | [terra1h49znmw0j9aj3fgll7kdlt4zmwvr95mwfaagfa](https://finder.terra.money/testnet/address/terra1h49znmw0j9aj3fgll7kdlt4zmwvr95mwfaagfa) | [See doc](https://docs.bandchain.org/whitepaper/lite-client-protocol.html)                                  |
 
 ## Simple Sportdata Consumer
 
